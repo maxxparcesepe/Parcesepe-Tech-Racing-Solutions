@@ -8,6 +8,7 @@ General Goals():
 Website Development: Building and maintaining websites for small businesses. 
 Custom Software & Automation: Developing small applications or automating tasks for clients.
 AI & Data Analysis Consulting: Helping local businesses use AI/data insights (great for those unfamiliar with tech).
+Car Design and Manufactoring
 
 Business Plan: Racing Data & Tech Solutions
 Business Name: Parcesepe Racing & Tech Solutions
@@ -24,48 +25,48 @@ Performance Software Development (Custom apps for data tracking)
 This business blends computer science, motorsports, and machine learning to give race teams an edge.
 
 2. Services & Pricing Model
-1️⃣ Data Logging & Telemetry Analysis
+Data Logging & Telemetry Analysis
 Service: Install and analyze telemetry systems (MoTeC, AIM, Racepak, OBD2)
 What You Offer:
 Set up data acquisition hardware & software for real-world racing.
 Create Python-based scripts to analyze lap times, tire wear, and braking performance.
 Custom reports showing areas for driver improvement.
-💰 Pricing:
+Pricing:
 One-time setup fee: TBA(hardware & configuration)
 Lap-by-lap analysis: TBA per session
 Monthly data consulting: TBA 
 
-2️⃣ Racing Simulator & Driver Training Integration
+Racing Simulator & Driver Training Integration
 Service: Help drivers improve through sim-to-real racing training.
 What You Offer:
 Optimize iRacing, Assetto Corsa, rFactor 2 setups for realistic physics.
 Analyze telemetry from sim and real-world for direct comparison.
 Help teams create custom training programs for their drivers.
-💰 Pricing:
+Pricing:
 Sim setup & configuration: $150–$300
 Data analysis of sim vs. real lap times: $100 per session
 Monthly training package: $400
 
 
 
-3️⃣ AI-Assisted Suspension & Setup Tuning
+AI-Assisted Suspension & Setup Tuning
 Service: Create a machine learning tool that suggests optimal suspension, camber, aero, and gear ratios based on conditions.
 What You Offer:
 Develop AI-powered setup tools that predict best car settings.
 Build a web-based app where teams input track conditions & get optimal setup.
 Real-time pit wall dashboard for quick adjustments.
-💰 Pricing:
+Pricing:
 AI-based tuning model: $500 per track setup
 Real-time pit strategy dashboard: $1,000–$2,500 (custom development)
 Subscription-based AI setup suggestions: $100/month
 
-4️⃣ Custom Racing Dashboards
+Custom Racing Dashboards
 Service: Develop digital dashboards using Raspberry Pi, Arduino, or mobile apps to display real-time data.
 What You Offer:
 Custom touchscreen display for telemetry (speed, RPM, tire temps).
 Live telemetry feed to the pit wall for real-time decision-making.
 CAN Bus & OBD2 integration for older race cars.
-💰 Pricing:
+Pricing:
 Basic digital dashboard: $500
 Advanced dashboard with live data streaming: $1,500+
 Subscription for cloud-based data storage: $50/month
@@ -88,36 +89,36 @@ Offer a Free Data Report: Give teams a sample to showcase value.
 4. Tech Demo: Show Your Skills to Racing Teams
 To convince teams, you should prepare a small, working tech demo. Here’s how:
 Tech Demo 1: Telemetry Data Analysis
-📌 Goal: Write a Python script that reads telemetry data (CSV format) and highlights the following:
+Goal: Write a Python script that reads telemetry data (CSV format) and highlights the following:
 Lap times per session
 Braking & acceleration zones
 Sector time comparisons
 Suggested improvement areas
-👨‍💻 Tools:
+Tools:
 Python (pandas, matplotlib)
 Sample telemetry data (iRacing, MoTeC, or open-source datasets)
-💡 Deliverable: A simple Python script that generates a visual report of a driver's performance.
+Deliverable: A simple Python script that generates a visual report of a driver's performance.
 
 Tech Demo 2: AI-Based Setup Suggestions
-📌 Goal: Create a basic machine learning model that predicts the best suspension setup based on:
+Goal: Create a basic machine learning model that predicts the best suspension setup based on:
 Track temperature
 Tire wear
 Downforce levels
-👨‍💻 Tools:
+Tools:
 Python (scikit-learn, TensorFlow)
 Sample race car setup data (open-source)
-💡 Deliverable: A simple AI tool where teams input conditions, and it suggests suspension & tire settings.
+Deliverable: A simple AI tool where teams input conditions, and it suggests suspension & tire settings.
 
 Tech Demo 3: Custom Dashboard
-📌 Goal: Build a React-based web app that displays:
+Goal: Build a React-based web app that displays:
 Live lap times
 Throttle/brake data
 Tire temps & pressures
-👨‍💻 Tools:
+Tools:
 React.js (for frontend)
 Raspberry Pi / Arduino (for hardware integration)
 Firebase (for data storage)
-💡 Deliverable: A simple pit-wall dashboard that updates in real-time.
+Deliverable: A simple pit-wall dashboard that updates in real-time.
 
 
 5. Business Expansion & Long-Term Vision
